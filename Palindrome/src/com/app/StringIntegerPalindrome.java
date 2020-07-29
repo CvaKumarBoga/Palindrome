@@ -1,6 +1,7 @@
 package com.app;
 
 import java.util.Scanner;
+//Author Sivakumer Boga
 //Palindrome program
 public class StringIntegerPalindrome {
 	@SuppressWarnings("null")
