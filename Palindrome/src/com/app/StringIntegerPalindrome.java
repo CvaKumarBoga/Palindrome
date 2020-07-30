@@ -1,9 +1,7 @@
 package com.app;
 
 import java.util.Scanner;
-	/*
-	 * Author Sivakumar Boga
-	 */	
+	
 public class StringIntegerPalindrome {
 	@SuppressWarnings("null")
 	public static void main(String[] args) {
